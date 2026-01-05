@@ -20,3 +20,7 @@ On each button click, the content updates dynamically using values from a JSON o
 ## Voice Note
 Voice note explaining thought process:  
 https://drive.google.com/file/d/17U_W_66djqpNP-ow36I0TWnuMx81XX6m/view?usp=sharing
+
+## OutPut Images
+https://drive.google.com/file/d/1dz7gC-vlFHycz1IVZO9pwwJ2IbTsSlDb/view?usp=sharing
+https://drive.google.com/file/d/1YrYXZTj0wI8nvJnqbt7vuXZvHIDy5wxF/view?usp=sharing
